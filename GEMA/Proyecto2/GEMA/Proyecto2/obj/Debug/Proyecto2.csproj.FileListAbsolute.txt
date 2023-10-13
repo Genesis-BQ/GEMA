@@ -1,0 +1,38 @@
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Registro.resources
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Inicio.resources
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Inicio.resources
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Registro.resources
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\pc\Desktop\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.AssemblyReference.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Login.resources
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Inicio.resources
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.Registro.resources
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\gbara\OneDrive\Uni\CUC 2023\III Cuatrimestre\TI-151 Programación IV\Proyectos\Proyecto2\GEMA\Proyecto2\GEMA\Proyecto2\obj\Debug\Proyecto2.pdb
